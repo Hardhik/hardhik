@@ -31,8 +31,6 @@ I'm a passionate software engineer specializing in high-performance systems and 
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/hardhik)
-- 📧 Email: hardhik@example.com
-- 🐦 [Twitter](https://twitter.com/hardhik)
 
 ---
 
