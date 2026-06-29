@@ -16,18 +16,10 @@ I'm a passionate software engineer specializing in high-performance systems and 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure Data Explorer](https://img.shields.io/badge/-Azure%20Data%20Explorer-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Databases](https://img.shields.io/badge/-Databases-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardhik&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardhik&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-FF6F00?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ## 🤝 Connect with Me
 
