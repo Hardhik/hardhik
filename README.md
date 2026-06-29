@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer specializing in high-performance systems and large-scale distributed architectures. With expertise in cloud technologies and database optimization, I focus on building scalable solutions that handle massive workloads efficiently.
+I'm a passionate software engineer specializing in high-performance systems and large-scale distributed architectures. With expertise in cloud technologies and database optimization, I focus on building scalable solutions that handle massive planet scale workloads efficiently.
 
 - 🔭 **Currently working on:** Large scale inventory databases in Azure, Microsoft
 - 🌱 **Currently learning:** Optimizing performance and memory footprints in .NET applications
